@@ -1,0 +1,22 @@
+algo_trading_1.png
+Robot investing, Robo-advisor. Artificial intelligence and businessman using IT algorithms for Forex tradings. Vector illustration
+by Andrii Symonenko
+
+
+home_background.png
+Business candle stick graph chart of stock market investment trading on background design. Bullish point, Trend of graph. Vector illustration
+by Artistdesign29
+
+
+normal_distribution
+Normal distribution, also Gaussian distribution or Bell curve. Very common in probability theory. The red curve shows the standard normal distribution. Illustration on white background.
+by Peter Hermes Furian
+
+
+All images are from ShutterStock under a Standard License, which includes unlimited web distribution.
+
+
+Financial data fetched from TwelveData API.
+
+Data visualized with Chart.js library, with vue-chartjs wrapper.
+https://vue-chartjs.org/
